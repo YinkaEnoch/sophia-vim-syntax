@@ -5,7 +5,7 @@ interpreted as a plain text by VIM, hence a little configuration is required to
 spice things up. Follow the steps below to add a syntax highlighting feature for
 Sophia (aes) in Vim.
 
-1. Add a file detect type for Sophia files
+1. Add a file detect type for Sophia files using either of the options below:
     - Add a aes.vim file to ftdetect
     ```vim
     " ~/.vim/after/ftdetect/aes.vim
