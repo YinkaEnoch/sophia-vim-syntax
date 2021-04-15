@@ -26,4 +26,16 @@ Sophia (aes) in Vim.
 
 > N.B: The syntax highlighting works well with any color scheme.
 
+### Neodark colorscheme
+
+![neodark_colorscheme](./neodark.png)
+
+### One colorscheme
+
+![one_colorscheme](./one.png)
+
+### Morning colorscheme
+
+![morning_colorscheme](./morning.png)
+
 
